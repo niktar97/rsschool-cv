@@ -6,7 +6,7 @@
 
 * **Phone:** +375 (33) 638-37-11
 * **Email:** niktar97@gmail.com
-* **Telegram:** [@niktar97][https://t.me/niktar97]
+* **Telegram:** [@niktar97](https://t.me/niktar97)
 
 ***
 
