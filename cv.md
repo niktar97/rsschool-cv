@@ -4,9 +4,9 @@
 
 ## Contacts:
 
-* *Phone:* +375 (33) 638-37-11
-* *Email:* niktar97@gmail.com
-* *Telegram:* [@niktar97][https://t.me/niktar97]
+* **Phone:** +375 (33) 638-37-11
+* **Email:** niktar97@gmail.com
+* **Telegram:** [@niktar97][https://t.me/niktar97]
 
 ***
 
@@ -29,7 +29,7 @@ I like to learn something new and know that helps me to become professional.
 
 ## Code example:
 
-*From CodeWars:* Given an array of binary numbers, figure out and return the culprit's message to find out who took the missing car key.
+**From CodeWars:** Given an array of binary numbers, figure out and return the culprit's message to find out who took the missing car key.
 
 ```
 function whoTookTheCarKey(message) {
